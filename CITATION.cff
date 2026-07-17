@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this reproducibility package, please cite it."
+title: "Reproducibility package for A Bianchi-Compatible Retained/Residual Interface for Finite Lattice Yang--Mills Theory"
+version: "0.2"
+date-released: "2026-07-17"
+authors:
+  - family-names: "Mkrttchian"
+    given-names: "Gratchia"
+    orcid: "https://orcid.org/0000-0003-4444-6138"
+preferred-citation:
+  type: article
+  title: "A Bianchi-Compatible Retained/Residual Interface for Finite Lattice Yang--Mills Theory"
+  authors:
+    - family-names: "Mkrttchian"
+      given-names: "Gratchia"
+      orcid: "https://orcid.org/0000-0003-4444-6138"
+  year: 2026
+license: "BSD-3-Clause AND CC-BY-4.0"
+repository-code: "TODO: insert public repository URL"
+abstract: "Finite-regulator reproducibility package containing scripts, certificates, and documentation for certified cuboidal Bianchi-template checks and related structural records."
+keywords:
+  - lattice gauge theory
+  - Yang-Mills theory
+  - Bianchi identities
+  - reproducibility
+  - mathematical physics
