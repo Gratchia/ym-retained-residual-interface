@@ -1,0 +1,14 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+The manuscript text, certificate/data files, and documentation in this repository
+are licensed under the Creative Commons Attribution 4.0 International License,
+unless otherwise stated.
+
+License summary:
+https://creativecommons.org/licenses/by/4.0/
+
+Full legal code:
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+Attribution should include the author name, title, version/release information,
+and repository/DOI once available.

@@ -1,0 +1,21 @@
+{
+  "title": "Reproducibility package for A Bianchi-Compatible Retained/Residual Interface for Finite Lattice Yang--Mills Theory",
+  "creators": [
+    {
+      "name": "Mkrttchian, Gratchia",
+      "orcid": "0000-0003-4444-6138",
+      "affiliation": "Higher Colleges of Technology - CERT; The Centre of Excellence for Applied Research & Training"
+    }
+  ],
+  "description": "Clean public reproducibility package containing scripts, certificates, manuscript files, and public documentation for finite-regulator certified cuboidal Bianchi-template checks and related structural records. This package does not prove continuum Yang-Mills existence, Osterwalder-Schrader reconstruction, confinement, transfer decay, or a spectral mass gap.",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "lattice gauge theory",
+    "Yang-Mills theory",
+    "Bianchi identities",
+    "finite regulators",
+    "mathematical physics"
+  ],
+  "version": "0.3",
+  "upload_type": "software"
+}
